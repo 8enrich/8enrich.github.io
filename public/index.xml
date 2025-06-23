@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8enrich</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 8enrich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 23 Jun 2025 07:54:58 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro post</title>
+      <link>http://localhost:1313/posts/primeiro-post/</link>
+      <pubDate>Mon, 23 Jun 2025 07:54:58 -0300</pubDate>
+      <guid>http://localhost:1313/posts/primeiro-post/</guid>
+      <description>Por que escrever? Eu sempre fui de falar muito sozinho, pensei que talvez pudesse escrever. Inspirado por um grande amigo que mostrou essa ideia de fazer um blog, eu decidi tentar também.&#xA;O que vai ter aqui são apenas pensamentos mesmo, por mais estranho que pareça acho que é mais fácil escrever do que falar para outra pessoa, pelo menos pra mim, de certa forma também fica como uma espécie de memória.</description>
+    </item>
+  </channel>
+</rss>

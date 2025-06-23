@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'pt-br'
+title = '8enrich'
+theme = 'risotto'
+
+sectionPagesMenu = "main"
