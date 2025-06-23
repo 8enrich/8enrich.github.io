@@ -4,3 +4,7 @@ title = '8enrich'
 theme = 'risotto'
 
 sectionPagesMenu = "main"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
