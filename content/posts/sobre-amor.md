@@ -5,10 +5,10 @@ draft = false
 +++
 
 É engraçado que eu estava muito empolgado pra fazer outro post, tipo, eu quase que vim escrever isso ontem kkkk
-Ironicamente esse ânimo parece um pouco com a forte paixão do ínicio de um relacionamento, sempre é tudo as mil maravilhas
+Ironicamente esse ânimo parece um pouco com a forte paixão do início de um relacionamento, sempre é tudo as mil maravilhas
 e com o tempo as rotinas de cada um vão voltando aos eixos e aí é que se passa a conhecer o real um do(s) outro(s). Acho
 que ambos os momentos são bons, tanto esse começo quando tudo é intenso, quanto o depois quando as coisas são mais pacatas,
-é legal também ás vezes trazer de volta a intensidade, enfim, isso não é um manual(até porque eu definitivamente não sou a pessoa
+é legal também às vezes trazer de volta a intensidade, enfim, isso não é um manual(até porque eu definitivamente não sou a pessoa
 indicada pra isso).
 
 ### Um receio
