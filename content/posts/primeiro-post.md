@@ -28,10 +28,10 @@ Mesmo sem ver muito sentido eu ainda tenho uma certeza: Adoro música, cantar, t
 o problema é que faz tempo que eu não escrevo, meus pensamentos sempre me vêm mais como texto em prosa (como uma conversa mesmo),
 então pensei que ao escrever aqui eu poderia organizar melhor e talvez algum dia isso vire mais uma letra.
 Eu quero muito lançar o primeiro álbum, é uma forma de realizar um sonho meu e também de alguns amigos, enfim, preciso gastar
-mais tempo nisso, mas infelizmente como eu disse eu tenho focado só no trabalho e estudo, de fato o gênio estava certo
+mais tempo nisso, mas infelizmente como eu disse eu tenho focado só no trabalho e estudo, de fato o gênio estava certo:
 
 > I was looking for a job and then I found a job and heaven knows I'm miserable now
-> - Heaven Knows I'm Miserable Now - The Smiths
+> - [Heaven Knows I'm Miserable Now - The Smiths](https://www.youtube.com/watch?v=PQyqrlFOe5s)
 
 **Trabalho** 
 
