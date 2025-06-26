@@ -8,3 +8,6 @@ sectionPagesMenu = "main"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params]
+  contact_message = "Se quiser conversar sobre algo que achou interessante me mande um email: <a href='mailto:8enrich.blog@gmail.com'>8enrich.blog@gmail.com</a>"
