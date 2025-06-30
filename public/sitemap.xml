@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-25T08:19:48-03:00</lastmod>
+    <lastmod>2025-06-29T22:14:09-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/o-maior-dos-otarios/</loc>
+    <lastmod>2025-06-29T22:14:09-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-25T08:19:48-03:00</lastmod>
+    <lastmod>2025-06-29T22:14:09-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/tempo/</loc>
     <lastmod>2025-06-25T08:19:48-03:00</lastmod>
