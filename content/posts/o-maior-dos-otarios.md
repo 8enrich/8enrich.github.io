@@ -116,7 +116,7 @@ não falar.
 P.S 2: Reiteiro o que já venho falando aqui, ter amigos é maravilhoso, essas relações valem muito a pena ser cultivadas, é sempre bom ter amigos
 na nossa volta, então faça muitos amigos. 
 
-[^1]: Não tem nada a ver com o assunto tratado aqui, mas enfim: Eu e um amigo estavámos combinando de ir para um São João e o site para comprar
+[^1]: Não tem nada a ver com o assunto tratado aqui, mas enfim: Eu e um amigo estávamos combinando de ir para um São João e o site para comprar
 os ingressos era um site de eventos e lá tinha a opção de pagar para seguro contra roubo de celular, eu sei que isso é o padrão do site,
 mas achei engraçado porque nesse São João específico era bem improvável que um celular fosse roubado, então eu mandei a seguinte mensagem para esse
 amigo: "Se meu celular for roubado lá eu sou o maior dos otários", e eu gostei da frase, então foi isso.
