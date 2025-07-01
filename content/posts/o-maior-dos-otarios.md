@@ -73,7 +73,7 @@ seja a mais legal.
 > Acontece que eu ainda enxergo em ti
 >
 > Tudo de que eu mais me orgulho em mim
-> - [No Fim da Ladeira, Entre Vielas Tortuosas](https://www.youtube.com/watch?v=4i4Omc0RmcA) 
+> - [No Fim da Ladeira, Entre Vielas Tortuosas - Jair Naves](https://www.youtube.com/watch?v=4i4Omc0RmcA) 
 
 Esse verso sempre me pegou muito, porque eu me identifico muito com ele, ainda enxergo nela diversas coisas que são as que eu me orgulho
 em mim, eu sei o quanto eu mudei e o quanto eu gosto de quem eu sou hoje, do quanto tudo que aconteceu foi bom pra mim, também há coisas
