@@ -6,8 +6,15 @@
     <description>Recent content in Posts on 8enrich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 21 Jul 2025 12:54:51 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 18:55:08 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Utilidade</title>
+      <link>http://localhost:1313/posts/utilidade/</link>
+      <pubDate>Thu, 07 Aug 2025 18:55:08 -0300</pubDate>
+      <guid>http://localhost:1313/posts/utilidade/</guid>
+      <description>Eu joguei as minhas férias fora, passei todos os dias trabalhando no projeto do laboratório que eu participo, deixei de dormir 2 dias e acabei com o meu corpo, não comi direito, não cuidei de mim, fiz tudo que podia para entregar essa aplicação. Hoje eu entreguei e não tava perfeita, deu erros (como sempre) e só o que eu sinto é um vazio tremendo, nem se tivesse dado tudo certo eu estaria feliz, porque essa neurose que eu tive pra entregar pouco tem a ver com a aplicação, o laboratório, o dinheiro e afins.</description>
+    </item>
     <item>
       <title>Quero Comer O Seu Pancreas</title>
       <link>http://localhost:1313/posts/quero-comer-o-seu-pancreas/</link>
