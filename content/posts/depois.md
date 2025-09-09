@@ -27,8 +27,8 @@ Acho que eu sempre sonhei com a ideia do caminho perfeito, com as coisas estarem
 e sobre controle, mas é doido perceber que não existe controle de nada, eu não tenho controle sobre
 nada e na verdade, é bom que eu não tenha, por mais contraditório que isso possa parecer eu acredito
 que é isso que faz a vida ser tão bonita, é a diferença das pessoas, e o quanto elas podem influenciar
-na vida uma das outras. Isso me lembrou um outro vídeo que eu vi, de alguma forma o youtube estava re
-comendando vídeos de canais menores e de repente apareceu esse canal, pelo que eu vi dos vídeos postados
+na vida uma das outras. Isso me lembrou um outro vídeo que eu vi, de alguma forma o youtube estava 
+recomendando vídeos de canais menores e de repente apareceu esse canal, pelo que eu vi dos vídeos postados
 era sobre uma garota e ela falava de assuntos que tava a fim de falar, eu achei bem interessante, enfim,
 nesse vídeo específico o conteúdo era sobre entropia e um pouco sobre controle e afins. A entropia é a
 medida de desordem de um sistema, no vídeo ela aborda como a entropia está completamente ligada a vida
