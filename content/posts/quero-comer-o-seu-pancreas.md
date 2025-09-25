@@ -1,5 +1,5 @@
 +++
-title = 'Quero Comer O Seu Pancreas'
+title = 'Quero Comer O Seu Pâncreas'
 date = 2025-07-21T12:54:51-03:00
 draft = false
 +++
@@ -8,7 +8,7 @@ Um dia desses quando eu ainda não estava de férias, estava eu e uns amigos na 
 e eu como sempre com muito sono estava tentando dormir mais um pouco ali para compensar 
 a péssima noite de sono. Um amigo meu sabendo desse meu hábito disse: "O foda é
 que você é uma boa pessoa e vai morrer em 2 anos", eu achei isso meio cômico, porém bastante
-real, eu não tenho cuidade muito bem de mim e isso faz tempo, talvez eu devesse estar dando
+real, eu não tenho cuidado muito bem de mim e isso faz tempo, talvez eu devesse estar dando
 mais importância para isso. Porém, não é sobre isso que eu vou falar hoje, mas foi o fato que
 me inspirou a falar sobre o meu mangá favorito de romance, que também tem a ver com morte e vida
 e quem sabe eu não mude um pouco de perspectiva depois de ler novamente para dizer tudo que eu gosto
