@@ -6,8 +6,15 @@
     <description>Recent content in Posts on 8enrich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 23 Jan 2026 04:23:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 23:16:43 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cantando No Escuro</title>
+      <link>http://localhost:1313/posts/cantando-no-escuro/</link>
+      <pubDate>Tue, 24 Mar 2026 23:16:43 -0300</pubDate>
+      <guid>http://localhost:1313/posts/cantando-no-escuro/</guid>
+      <description>Muito tempo que eu não escrevo aqui, na verdade nem deve fazer tanto tempo assim, talvez da última postagem que eu escrevi aqui pra anterior deve ter feito mais tempo. Eu comecei com essa mania de gravar primeiro porque as ideias vêm na minha cabeça mais rápido que eu consigo escrever, aí no fim o post não sai com tudo que eu queria dizer, porém depois que eu gravo eu não quero mais escrever já que eu meio que já externei o sentimento.</description>
+    </item>
     <item>
       <title>Um Passo Por Vez</title>
       <link>http://localhost:1313/posts/um-passo-por-vez/</link>
