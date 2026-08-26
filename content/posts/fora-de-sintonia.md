@@ -25,8 +25,21 @@ na minha vida ultimamente, eu sinto que as coisas estão fora de sintonia. Eu
 erro a letra, os acordes e os cabos aqui de casa são terríveis então até a
 guitarra falha, é uma maravilha.
 
-[Atrofiando/Recém-Convertido/Ex-Futuro Diplomata - Ludovic (Cover)](https://www.youtube.com/watch?v=J_CdUsISF_U) 
 
+<div style="display: flex;">
+<iframe 
+    width="100%" 
+    style="aspect-ratio: 16/9;"
+    src="https://www.youtube.com/embed/J_CdUsISF_U" 
+    title="Atrofiando/Recém-Convertido/Ex-Futuro Diplomata - Ludovic (Cover)"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+</iframe>
+</div>
+
+---
 Olhando agr essa thumb que o youtube escolheu ficou engraçada, enfim, escuta aí
 o que talvez seja o pior cover já feito da Ludovic.
 

@@ -126,4 +126,18 @@ significa pra mim eu fiquei com vontade de gravar a minha música no escuro, pra
 ver como que ficaria, essa grande tentativa falha de ver se eu sou capaz de
 tocar sem olhar pro braço do violão kkkkkk
 
-Contemplem essa grande performance: [Tentando tocar Arara no escuro](https://www.youtube.com/watch?v=Lb4glcg4S7Y) 
+Contemplem essa grande performance:
+
+<div style="display: flex;">
+<iframe 
+    width="100%" 
+    style="aspect-ratio: 16/9;"
+    src="https://www.youtube.com/embed/Lb4glcg4S7Y" 
+    title="Tentando tocar Arara no escuro" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+</iframe>
+</div>
+
