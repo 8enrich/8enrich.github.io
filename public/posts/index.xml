@@ -6,8 +6,15 @@
     <description>Recent content in Posts on 8enrich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 23 May 2026 00:25:24 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:36:14 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memória</title>
+      <link>http://localhost:1313/posts/memoria/</link>
+      <pubDate>Wed, 02 Sep 2026 17:36:14 -0300</pubDate>
+      <guid>http://localhost:1313/posts/memoria/</guid>
+      <description>A nossa memória é uma coisa muito louca, ela esquece e lembra de um monte de coisas facilmente, bom pelo menos a minha funciona assim. Hoje eu tava voltando pra casa e de repente minha ex subiu no ônibus e eu fiquei todo fudido, completamente nervoso, me recusei a olhar pra trás pra confirmar, apenas esperei o longo trajeto até em casa passar com a esperança que ela fosse descer antes de mim.</description>
+    </item>
     <item>
       <title>Fora De Sintonia</title>
       <link>http://localhost:1313/posts/fora-de-sintonia/</link>
